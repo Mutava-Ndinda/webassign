@@ -1,0 +1,64 @@
+.container{
+    display: grid;
+    grid-template-columns: 50%50%;
+}
+#img{
+    width: 70%;
+}
+.box{
+    margin-left: 35%;
+}
+#pict{
+    width: 70%;
+}
+.image{
+    width: 40%;
+}
+#image{
+    width: 30%;
+}
+#pic{
+    width: 60%;
+}
+#img1{
+    width: 60%;
+}
+#p2,h1,h5,h3{
+    text-align: center;
+}
+#p1{
+    text-align: left;
+    margin-left: 20%;
+}
+#div{
+    text-align: center;
+}
+button{
+    border-radius: 30px;
+    width: 30%;
+    height: 40px;
+}
+#button{
+    background-color: grey;
+    color: white;
+}
+#bcontainer{
+    padding: 24px;
+}
+#box2,#hh3,#hh1{
+    margin-right: 50%;
+}
+#p{
+    font-size:26px;
+    text-align: center;
+}
+#container2{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+#p3{
+    font-size: 24px;
+}
